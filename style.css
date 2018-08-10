@@ -7,3 +7,23 @@
     height: 92px;
     width: 272px;
 }
+
+.search {
+    padding-bottom: 2px;
+    padding-top: 3px;
+    margin-top: -3px;
+    width: 632px;
+}
+
+.sbib_b {
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    height: 100%;
+    overflow: hidden;
+    padding: 6px 9px 0;
+}
+
+form {
+margin: 0 auto;
+width:250px;
+}
