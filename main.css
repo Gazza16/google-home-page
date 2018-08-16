@@ -1,0 +1,65 @@
+body {
+  margin: 0;
+}
+
+#main {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+}
+
+#nav-top {
+  position: absolute;
+  top: 0;
+  width: 600px;
+  height: 60px;
+  background-color: orange;
+  right: 0;
+}
+
+#gmail {
+  max-width: 45px;
+  margin-left: 325px;
+  background-color: red;
+}
+
+#images {
+  margin-top: 0;
+  max-width: 45px;
+  margin-left: 400px;
+  background-color: red;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    padding-top: 109px;
+    height: 92px;
+    width: 272px;
+}
+
+.search {
+    padding-bottom: 2px;
+    padding-top: 3px;
+    margin-top: -3px;
+    width: 632px;
+    position: relative;
+}
+
+.sbib_b {
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    height: 100%;
+    overflow: hidden;
+    padding: 6px 9px 0;
+}
+
+form {
+margin: 0 auto;
+height:44px;
+width:250px;
+}
