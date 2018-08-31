@@ -15,7 +15,6 @@ body {
   top: 0;
   width: 600px;
   height: 60px;
-  background-color: orange;
   right: 0;
 }
 
@@ -25,20 +24,32 @@ body {
 }
 
 #gmail {
+  font-family: arial, sans-serif;
   max-width: 45px;
-  margin-left: 325px;
-  background-color: red;
   position: relative;
-  top: 20px;
+  left: 343px;
+  top: 23px;
+  font-size: 13px;
 }
 
 #images {
+  font-family: arial, sans-serif;
   margin-top: 0;
   max-width: 45px;
   margin-left: 400px;
-  background-color: red;
   position: relative;
-  top: 2px;
+  top: 8px;
+  left: -8px;
+  font-size: 13px;
+}
+
+#appLogo {
+  height: 21px;
+  width: 21px;
+  position: relative;
+  left: 455px;
+  bottom: 15px;
+  top: -9px;
 }
 
 .logo {
